@@ -5,10 +5,10 @@
 
 ## How to play
 #### Controls
--Up Arrow to move up
--Down Arrow to move down
--Left Arrow to move left
--Right Arrow to move right
+- Up Arrow to move up
+- Down Arrow to move down
+- Left Arrow to move left
+- Right Arrow to move right
 
 # Objective:
 -Guide the snake to eat the food that randomly appears on the grid.
